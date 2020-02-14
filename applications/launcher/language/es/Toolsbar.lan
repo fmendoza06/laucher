@@ -1,0 +1,22 @@
+<?php 
+$Toolsbar = array(
+    'save' => 'Guardar',
+    'new' => 'Nuevo',
+    'back' => 'Atras',
+    'del' => 'Borrar',
+    'help' => 'Ayuda',
+    'edit' => 'Editar',
+    'close' => 'Cerrar',
+    'refresh' => 'Refrescar',
+    'condiction' => 'Condicion',
+    'KeyWord' => 'Palabra Clave',
+    'Filterby' => 'Filtrar Por',
+    'ExactPhrase' => 'Frase Exacta',
+    'Diff' => 'Diferente',
+    'BeginWith' => 'Comienza Por',
+    'EndWith' => 'Finaliza En',
+    'Content' => 'Contiene',
+    'find' => 'Buscar'
+	
+);
+?>

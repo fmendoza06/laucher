@@ -1,0 +1,15 @@
+<?php
+
+$Alerts = array(
+    '90' => 'Error: Email ya está registrado',
+    '91' => 'Error: Contraseñas no son iguales',    	
+    '100' => 'Error: Un dato no se ha ingresado',
+    '101' => 'Error: Registro ya existe',
+    '102' => 'Error: Registro no existe',
+    '103' => 'Operacion ejecuta con exito',
+    '104' => 'Tipo de dato invalido',
+    '105' => 'Transaccion invalida, intente nuevamente',
+    '106' => 'El correo y/o clave son incorrectos',
+    '107' => 'Estado de cuenta inactiva'
+)
+?>
